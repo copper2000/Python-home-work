@@ -23,7 +23,6 @@ def binarySearch(low, high, arr, x):
     # If it not found any result
     return -1
 
-
 def main():
 
     arr = []
