@@ -26,12 +26,12 @@ def binarySearch(low, high, arr, x):
 def main():
 
     arr = []
-    n = int(input("Enter number of elements :"))
+    n = int(input("Enter number of elements: "))
     for i in range(0, n):
         ele = int(input())
         arr.append(ele)
 
-    x = int(input("Search number:"))
+    x = int(input("Search number: "))
     arrSize = len(arr)
     low = 0
     high = arrSize - 1
