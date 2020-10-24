@@ -1,5 +1,3 @@
-# Bài 04: Viết hàm lấy giá trị 3 số bất kỳ trong khoảng 1~10. Kiểm tra xem đó có phải là 3 cạnh của 1 tam giác hay không
-
 import random
 
 a = random.randint(1, 10)
